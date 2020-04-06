@@ -2,7 +2,7 @@ Bootstrap 4 Vue CLI Starter
 
 ## Introduction
 
-Vue CLI3 Bootstrap 4 starter with Bootstrap Vue, Bootstrap, Sass and header/footer
+Vue CLI3 Bootstrap 4 starter with Bootstrap Vue, Bootstrap, Sass and header/footer, router with dummy lander route and component
 Enabled for basic Sass/Scss in vue.config.js
 
 ## Demo
